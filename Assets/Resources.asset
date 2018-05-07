@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2bf077d586bac498caefc2c5db9e2d50, type: 3}
+  m_Name: Resources
+  m_EditorClassIdentifier: 
+  _rooms:
+  - {fileID: 1055703698273998, guid: e5f344506b1379548a61236d3ea59744, type: 2}
+  - {fileID: 1303214580443782, guid: df0380e008e59584bb0841bd4e814b89, type: 2}
+  _levelIntros:
+  - {fileID: 1928515694667122, guid: 6ad526f2da9cb4553b548d67f503a564, type: 2}
+  - {fileID: 1756113141564790, guid: 143d4ae23632e4e65bfa01a9c3ab497e, type: 2}
+  _levels:
+  - {fileID: 11400000, guid: dc4d419340c69448898a667ffc91b25a, type: 2}
+  - {fileID: 11400000, guid: e341cd952c4254aae934f82d382be764, type: 2}

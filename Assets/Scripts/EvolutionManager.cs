@@ -216,7 +216,7 @@ public class EvolutionManager : MonoBehaviour {
 
     public void Reset(){
         auto_evolve_timer = auto_evolve_time_interval;
-        generation_count = 0;
+        generation_count = -1;
         listOfRooms.Clear();
         levelFinished = false;
         InitAllRooms();
